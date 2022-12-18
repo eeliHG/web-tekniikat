@@ -1,9 +1,23 @@
 .omavari{
-    background-color: 
-    
-    #7666F2 !important;
+    background-color: #7666F2 !important;
+}
+
+body{
+    background-color: aliceblue;
 }
 
 .carousel-item{
-    height: 100vh !important;
+    object-fit: contain;
+}
+
+.w-100 {
+    margin-top: 20px;
+    width: 100% !important;
+    height: 75vh;
+    object-fit: contain;
+  }
+
+
+.carousel-control-next, .carousel-control-prev{
+    filter: invert(100%);
 }
