@@ -1,3 +1,7 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .omavari{
     background-color: #5986D9!important;
 }
@@ -26,6 +30,15 @@ body{
 #description{
     text-align: center;
     font-size: 2em;
+}
+
+#navlinkki{
+    padding: 5px;
+}
+#navlinkki:hover{
+    background-color: aliceblue !important;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 
