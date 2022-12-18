@@ -21,3 +21,8 @@ body{
 .carousel-control-next, .carousel-control-prev{
     filter: invert(100%);
 }
+
+#description{
+    text-align: center;
+    font-size: 2em;
+}
