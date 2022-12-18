@@ -1,9 +1,10 @@
 .omavari{
-    background-color: #7666F2 !important;
+    background-color: #5986D9!important;
 }
 
 body{
-    background-color: aliceblue;
+    background-color: #AEBFDF;
+    width: 100%;
 }
 
 .carousel-item{
@@ -26,3 +27,5 @@ body{
     text-align: center;
     font-size: 2em;
 }
+
+
